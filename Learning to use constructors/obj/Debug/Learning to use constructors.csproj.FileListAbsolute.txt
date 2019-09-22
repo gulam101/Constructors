@@ -1,0 +1,10 @@
+C:\Users\Gulam\source\repos\Learning to use constructors\Learning to use constructors\bin\Debug\Learning to use constructors.exe.config
+C:\Users\Gulam\source\repos\Learning to use constructors\Learning to use constructors\bin\Debug\Learning to use constructors.exe
+C:\Users\Gulam\source\repos\Learning to use constructors\Learning to use constructors\bin\Debug\Learning to use constructors.pdb
+C:\Users\Gulam\source\repos\Learning to use constructors\Learning to use constructors\obj\Debug\Learning to use constructors.csprojAssemblyReference.cache
+C:\Users\Gulam\source\repos\Learning to use constructors\Learning to use constructors\obj\Debug\Learning_to_use_constructors.Form1.resources
+C:\Users\Gulam\source\repos\Learning to use constructors\Learning to use constructors\obj\Debug\Learning_to_use_constructors.Properties.Resources.resources
+C:\Users\Gulam\source\repos\Learning to use constructors\Learning to use constructors\obj\Debug\Learning to use constructors.csproj.GenerateResource.cache
+C:\Users\Gulam\source\repos\Learning to use constructors\Learning to use constructors\obj\Debug\Learning to use constructors.csproj.CoreCompileInputs.cache
+C:\Users\Gulam\source\repos\Learning to use constructors\Learning to use constructors\obj\Debug\Learning to use constructors.exe
+C:\Users\Gulam\source\repos\Learning to use constructors\Learning to use constructors\obj\Debug\Learning to use constructors.pdb
